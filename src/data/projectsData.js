@@ -42,7 +42,7 @@ export const projectData = [
             `Beautiful and Responsive UI design.`,
             'Full functionalities without need of any backend.',
         ],
-        outlookImg: '/images/projectImages/outlook/profile.jfif',
+        outlookImg: '/images/projectImages/outlook/issue.jpeg',
 //         images: [
 //             process.env.PUBLIC_URL + '/images/projectImages/homeprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/aboutprofile.png',
