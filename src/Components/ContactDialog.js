@@ -53,10 +53,10 @@ export const ContactDialog = ({ open, setopen }) => {
                         below details to contact me. Thank you!
                     </Typography>
                     <Typography gutterBottom>
-                        Email : partheev8@gmail.com
+                        Email : purupowerman@gmail.com
                     </Typography>
                     <Typography gutterBottom>
-                        Phone : +91 7396378493
+                        Phone : +91 7780769440
                     </Typography>
                 </DialogContent>
                 <DialogActions>
