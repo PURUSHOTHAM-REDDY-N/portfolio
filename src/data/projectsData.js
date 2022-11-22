@@ -80,7 +80,7 @@ export const projectData = [
             `Automatically gets the present surfing website url and short using the api`,
             'Full functionalities without need of any backend.',
         ],
-//         outlookImg: '/images/projectImages/outlook/profile.jfif',
+        outlookImg: '/images/projectImages/outlook/extension.jpeg',
 //         images: [
 //             process.env.PUBLIC_URL + '/images/projectImages/homeprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/aboutprofile.png',
