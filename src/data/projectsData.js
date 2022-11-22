@@ -43,13 +43,13 @@ export const projectData = [
             'Full functionalities without need of any backend.',
         ],
         outlookImg: '/images/projectImages/outlook/issue.jpg',
-//         images: [
+        images: [
 //             process.env.PUBLIC_URL + '/images/projectImages/homeprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/aboutprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/skillsprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/contactprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/projectprofile.png',
-//         ],
+        ],
     },
 //     {
 //         name: 'Backend for E-Commerce',
@@ -81,12 +81,12 @@ export const projectData = [
             'Full functionalities without need of any backend.',
         ],
         outlookImg: '/images/projectImages/outlook/extension.jpeg',
-//         images: [
+        images: [
 //             process.env.PUBLIC_URL + '/images/projectImages/homeprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/aboutprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/skillsprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/contactprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/projectprofile.png',
-//         ],
+        ],
     },
 ]
