@@ -110,7 +110,7 @@ const About = () => {
                                     color='text.secondary'
                                     sx={{ flex: '0' }}
                                 >
-                                    March 22
+                                    Dec 22
                                 </TimelineOppositeContent>
                                 <TimelineSeparator>
                                     <TimelineDot color='primary' />
