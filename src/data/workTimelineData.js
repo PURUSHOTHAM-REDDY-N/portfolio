@@ -1,7 +1,7 @@
 export const workTimelineData = [
     {
         companyName: '7 Dots Smart Solutions',
-        role: 'Angular-Ionioc Developer - Internship',
+        role: 'Angular-Ionioc Developer - Internship (WOF)',
         link: 'https://7dotss.com/',
         logo: process.env.PUBLIC_URL + '/images/companyLogos/7dots.jpg',
     },

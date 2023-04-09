@@ -15,17 +15,30 @@ export const skillsData = [
                 image:
                     process.env.PUBLIC_URL + '/images/skillsData/tailwind.png',
             },
+            // {
+            //     title: 'Material UI',
+            //     image:
+            //         process.env.PUBLIC_URL +
+            //         '/images/skillsData/material-ui.png',
+            // },
+
             {
-                title: 'Material UI',
+                title: 'Ionic',
                 image:
                     process.env.PUBLIC_URL +
-                    '/images/skillsData/material-ui.png',
+                    '/images/skillsData/ionic.png',
             },
             {
                 title: 'JavaScript',
                 image:
                     process.env.PUBLIC_URL +
                     '/images/skillsData/javascript.png',
+            },
+            {
+                title: 'Angular',
+                image:
+                    process.env.PUBLIC_URL +
+                    '/images/skillsData/angular.png',
             },
             {
                 title: 'ReactJS',
