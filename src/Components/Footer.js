@@ -32,6 +32,8 @@ const Footer = () => {
         document.body.scrollTop = 0 // For Safari
         document.documentElement.scrollTop = 0 // For Chrome, Firefox, IE and Opera
     }
+
+    const date = new Date
     return (
         <div className={styles.footerlayout}>
             <div onClick={topFunction} className={styles.backtotop}>
@@ -53,7 +55,7 @@ const Footer = () => {
                 })}
             </div>
             <div className={styles.copyright}>
-                PURUSHOTHAM <span> &copy;2022</span>{' '}
+                PURUSHOTHAM <span> &copy;{date.getFullYear()}</span>{' '}
             </div>
         </div>
     )
