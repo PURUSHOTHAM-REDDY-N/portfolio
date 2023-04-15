@@ -20,7 +20,7 @@ const Intro = (props) => {
                     <div className={styles.name}>
                         Hello, I'm <span>Purushotham</span>.
                     </div>
-                    <div className={styles.name}>Full stack web developer.</div>
+                    <div className={styles.name}>Full stack web/App developer.</div>
                     <a href='#navbar'>
                         <button className={styles.workbtn}>
                             View My Work

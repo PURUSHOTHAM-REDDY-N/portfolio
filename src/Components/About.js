@@ -155,7 +155,7 @@ const About = () => {
                     <div className={styles.aboutpara}>
                         <p>
                             I'm enthusiastic software developer. My passion
-                            towards computer science made me full stack web
+                            towards computer science made me full stack web/App
                             developer. Continuously learning new and modern
                             technologies to make better applications. Aspiring
                             about WEB 3 and Blockchain Technology.

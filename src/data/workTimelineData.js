@@ -18,7 +18,7 @@ export const cardDetails = [
         title: 'My Expertise',
         image: process.env.PUBLIC_URL + '/images/card/experience.png',
         message:
-            'Deep understanding of Node.js and JavaScript. Familier with Reactjs, Nextjs frontend libraries and integration of APIS.',
+            'Deep understanding of Node.js and JavaScript. Familier with Angular, Reactjs, Nextjs frontend libraries and integration of APIS.',
     },
     {
         title: 'Education',
