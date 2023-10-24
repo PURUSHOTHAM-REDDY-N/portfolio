@@ -21,6 +21,21 @@ export const skillsData = [
             //         process.env.PUBLIC_URL +
             //         '/images/skillsData/material-ui.png',
             // },
+            {
+                title:'Wordpress',
+                image:'images/skillsData/wordpress.png'
+
+            },
+            {
+                title:'Elementor',
+                image:'images/skillsData/elementor.png'
+
+            },
+            {
+                title:'Figma',
+                image:'images/skillsData/figma.png'
+
+            },
 
             {
                 title: 'Ionic',
