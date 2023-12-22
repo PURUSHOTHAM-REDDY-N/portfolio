@@ -27,6 +27,11 @@ export const skillsData = [
 
             },
             {
+                title:'Shopify',
+                image:'images/skillsData/shopify.png'
+
+            },
+            {
                 title:'Elementor',
                 image:'images/skillsData/elementor.png'
 
