@@ -54,6 +54,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 .tech_title {
     font-size: 1rem;
