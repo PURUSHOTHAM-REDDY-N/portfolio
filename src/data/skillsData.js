@@ -15,12 +15,12 @@ export const skillsData = [
                 image:
                     process.env.PUBLIC_URL + '/images/skillsData/tailwind.png',
             },
-            // {
-            //     title: 'Material UI',
-            //     image:
-            //         process.env.PUBLIC_URL +
-            //         '/images/skillsData/material-ui.png',
-            // },
+            {
+                title: 'Material UI',
+                image:
+                    process.env.PUBLIC_URL +
+                    '/images/skillsData/material-ui.png',
+            },
             {
                 title:'Wordpress',
                 image:'images/skillsData/wordpress.png'
