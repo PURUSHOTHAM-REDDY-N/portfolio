@@ -1,4 +1,3 @@
-
 var c = document.getElementById('canvas')
 var ctx = c.getContext('2d')
 
@@ -7,6 +6,7 @@ function resize() {
   c.width = box.width
   c.height = box.height
 }
+
 
 var light = {
   x: 160,
