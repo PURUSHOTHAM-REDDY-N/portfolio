@@ -131,10 +131,10 @@ export const skillsData = [
                 title: 'Linux OS',
                 image: process.env.PUBLIC_URL + '/images/skillsData/linux.png',
             },
-            // {
-            //     title: 'Docker',
-            //     image: process.env.PUBLIC_URL + '/images/skillsData/docker.png',
-            // },
+            {
+                title: 'Docker',
+                image: process.env.PUBLIC_URL + '/images/skillsData/docker.png',
+            },
             // {
             //   title: 'Docker Swarm',
             //   image:  ../images/skillsData/dockerswarm.png',
@@ -143,14 +143,14 @@ export const skillsData = [
             //   title: 'Kubernetes',
             //   image:  ../images/skillsData/kubernetes.png',
             // },
-            // {
-            //     title: 'Amazon Web Services',
-            //     image: process.env.PUBLIC_URL + '/images/skillsData/aws.png',
-            // },
-            // {
-            //   title: 'Google Cloud',
-            //   image:  ../images/skillsData/gcp.png',
-            // },
+            {
+                title: 'Amazon Web Services',
+                image: process.env.PUBLIC_URL + '/images/skillsData/aws.png',
+            },
+            {
+              title: 'Google Cloud',
+              image:  process.env.PUBLIC_URL + '/images/skillsData/gcp.png',
+            },
         ],
     },
     {
