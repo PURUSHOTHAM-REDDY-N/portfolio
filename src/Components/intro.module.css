@@ -93,7 +93,7 @@
 
 @media (max-width: 690px) {
     .name {
-        font-size: 2rem;
+        font-size: 24px;
     }
 }
 @media (max-width: 410px) {
