@@ -46,6 +46,7 @@
 .workbtn:hover > .arrow {
     display: inline-block;
     transform: rotate(90deg);
+    color: var(--introButtonTitleHover);
 }
 .arrow {
     transition: 0.3s all;

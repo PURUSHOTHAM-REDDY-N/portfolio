@@ -81,12 +81,12 @@ export const skillsData = [
             //     title: 'Golang',
             //     image: process.env.PUBLIC_URL + '/images/skillsData/golang.png',
             // },
-            // {
-            //     title: 'TypeScript',
-            //     image:
-            //         process.env.PUBLIC_URL +
-            //         '/images/skillsData/typescript.png',
-            // },
+            {
+                title: 'TypeScript',
+                image:
+                    process.env.PUBLIC_URL +
+                    '/images/skillsData/typescript.png',
+            },
             {
                 title: 'Express.js',
                 image:
