@@ -1,7 +1,7 @@
 export const workTimelineData = [
     {
         companyName: '7 Dots Smart Solutions',
-        role: 'Angular-Ionioc Developer - Full Time',
+        role: 'Full Stack Developer - Full Time',
         link: 'https://7dotss.com/',
         logo: process.env.PUBLIC_URL + '/images/companyLogos/7dots.jpg',
     },
