@@ -164,7 +164,6 @@ const About = () => {
                     <a
                         href='./cv.pdf'
                         target='_blank'
-                        download='cv.pdf'
                         className={styles.cvbtn}
                     >
                         <button>DOWNLOAD CV</button>
