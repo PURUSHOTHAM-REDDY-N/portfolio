@@ -24,6 +24,6 @@ export const cardDetails = [
         title: 'Education',
         image: process.env.PUBLIC_URL + '/images/card/education.png',
         message:
-            'Pursuing B.Tech in Computer Science degree at Sri Venkateshwara  College of Engineering, Kadapa.',
+            'B.Tech in Computer Science degree at Sri Venkateshwara  College of Engineering, Kadapa.',
     },
 ]
