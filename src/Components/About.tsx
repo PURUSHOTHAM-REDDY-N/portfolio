@@ -88,7 +88,7 @@ const About = () => {
                         alt='work experience'
                         width={'50rem'}
                         src={
-                            process.env.PUBLIC_URL + '/images/card/workexp.png'
+                            '/images/card/workexp.png'
                         }
                     />
                     <div className={styles.title}>

@@ -120,7 +120,7 @@ const Intro: React.FC = () => {
       <div className={styles.title}>
         <div className={styles.textbox}>
           <div className={styles.profilepic}>
-            <img src={process.env.PUBLIC_URL + "/images/profilepic.jpg"} alt="profile pic" />
+            <img src={"/images/profilepic.jpg"} alt="profile pic" />
           </div>
           <div className={styles.name}>
             Hello, I'm <span>Purushotham</span>.

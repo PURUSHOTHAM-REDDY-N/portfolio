@@ -130,9 +130,7 @@ const MyProjects: React.FC = () => {
           !isHover
             ? {
                 backgroundSize: "cover",
-                backgroundImage: `url(${
-                  process.env.PUBLIC_URL + projectDetails.outlookImg
-                })`,
+                backgroundImage: `url(${projectDetails.outlookImg})`,
               }
             : {}
         }
