@@ -11,7 +11,12 @@ import { cardDetails, workTimelineData } from '../data/workTimelineData'
 import { TimelineOppositeContent } from '@mui/lab'
 const About = () => {
     const Cards = () => {
-        const Card = ({ heading, message, image }) => {
+        interface CardProps {
+            heading: string;
+            message: string;
+            image: string;
+        }
+        const Card:React.FC<CardProps> = ({ heading, message, image }) => {
             return (
                 <div className={styles.card}>
                     <img src={image} alt={heading} />
@@ -41,7 +46,12 @@ const About = () => {
         )
     }
     const WorkExperienceTimeline = () => {
-        const CompanyContent = ({ companyName, role, logo }) => {
+        interface CompanyContentProps {
+            companyName: string;
+            role: string;
+            logo: string;
+        }
+        const CompanyContent:React.FC<CompanyContentProps> = ({ companyName, role, logo }) => {
             return (
                 <Box
                     sx={{

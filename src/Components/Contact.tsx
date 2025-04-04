@@ -17,7 +17,7 @@ const Contact = () => {
                             className={styles.form}
                         ></input>
                         <textarea
-                            rows='10'
+                            rows={10}
                             placeholder='Message'
                             className={styles.form}
                         ></textarea>

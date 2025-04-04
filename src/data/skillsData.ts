@@ -22,27 +22,6 @@ export const skillsData = [
                     '/images/skillsData/material-ui.png',
             },
             {
-                title:'Wordpress',
-                image:'images/skillsData/wordpress.png'
-
-            },
-            {
-                title:'Shopify',
-                image:'images/skillsData/shopify.png'
-
-            },
-            {
-                title:'Elementor',
-                image:'images/skillsData/elementor.png'
-
-            },
-            {
-                title:'Figma',
-                image:'images/skillsData/figma.png'
-
-            },
-
-            {
                 title: 'Ionic',
                 image:
                     process.env.PUBLIC_URL +
@@ -65,9 +44,33 @@ export const skillsData = [
                 image: process.env.PUBLIC_URL + '/images/skillsData/react.png',
             },
             {
+                title: 'React Native',
+                image: process.env.PUBLIC_URL + '/images/skillsData/react.png',
+            },
+            {
                 title: 'NEXTJS (SSR)',
                 image: process.env.PUBLIC_URL + '/images/skillsData/nextjs.png',
             },
+            {
+                title:'Shopify',
+                image:'images/skillsData/shopify.png'
+
+            },
+            {
+                title:'Elementor',
+                image:'images/skillsData/elementor.png'
+
+            },
+            {
+                title:'Figma',
+                image:'images/skillsData/figma.png'
+
+            },
+            {
+                title:'Wordpress',
+                image:'images/skillsData/wordpress.png'
+
+            }
         ],
     },
     {

@@ -45,7 +45,7 @@ const Footer = () => {
                         <div
                             key={e.name}
                             onClick={() =>
-                                window.open(e.href, '_blank').focus()
+                                window.open(e.href, '_blank')?.focus()
                             }
                             className={styles.mediabtn}
                         >
