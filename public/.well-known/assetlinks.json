@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.flutter_video_playe",
+        "sha256_cert_fingerprints": [
+          "BA:7C:36:61:E5:78:EF:9B:C1:D9:61:0C:85:27:63:78:BF:C9:2C:29:E1:9E:EB:20:32:D1:C7:68:25:CB:62:1F"
+        ]
+      }
+    }
+  ]
+  
