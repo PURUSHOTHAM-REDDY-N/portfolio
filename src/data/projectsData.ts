@@ -1,7 +1,7 @@
 export const projectData = [
     {
-        name: 'Authentication System',
-        githubLink: 'https://github.com/PURUSHOTHAM-REDDY-N/JWT-UserAuthentication-Backend',
+        name: 'Volvo Dealership website',
+        githubLink: 'https://autohausrebmann.de/',
         description: `This is secure authentication system which is written in typescript. I used JWT to sign tokens which is good practice for microservice architecture applications.
         This system has REST API's for user management (to create and delete users) and authenticating users verify username, password.`,
         techstack: ['JSON WEB TOKEN', 'MONGODB', 'EXPRESS.JS'],
@@ -10,7 +10,7 @@ export const projectData = [
             `Secure cookies are passed to authenticated users.`,
             'Suitable for microservice architecture applications',
         ],
-        outlookImg: '/images/projectImages/outlook/oauth.png',
+        outlookImg: '/images/projectImages/outlook/volvo.png',
         images: [],
     },
 //     {
@@ -34,7 +34,7 @@ export const projectData = [
 //         ],
 //     },
     {
-        name: 'Issue Tracker',
+        name: 'Fastener Finder',
         githubLink: 'https://github.com/PURUSHOTHAM-REDDY-N/IssueTracker-React-Bootstrap',
         description: `I designed and developed this Issue Tracker to raise the issues related to the work work. I consider this  is also a responsible project to show how I take care of my work even it is small. `,
         techstack: ['JAVASCRIPT', 'REACT.JS', 'BOOTSTRAP'],
@@ -42,7 +42,7 @@ export const projectData = [
             `Beautiful and Responsive UI design.`,
             'Full functionalities without need of any backend.',
         ],
-        outlookImg: '/images/projectImages/outlook/issue.jpg',
+        outlookImg: '/images/projectImages/outlook/fastener-finder.png',
         images: [
 //             process.env.PUBLIC_URL + '/images/projectImages/homeprofile.png',
 //             process.env.PUBLIC_URL + '/images/projectImages/aboutprofile.png',

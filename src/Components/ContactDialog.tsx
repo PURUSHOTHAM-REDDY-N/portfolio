@@ -48,10 +48,10 @@ export const ContactDialog: React.FC<ContactDialogProps> = ({
         <DialogContent dividers>
           <Typography gutterBottom>
             Note: There is some problem with backend API. Please use the details
-            below to contact me. Thank you!
+            below to contact me. Thank you!☺️
           </Typography>
           <Typography gutterBottom>Email: purupowerman@gmail.com</Typography>
-          <Typography gutterBottom>Phone: +91 7780769440</Typography>
+          <Typography gutterBottom>Phone: +353 0892566822</Typography>
         </DialogContent>
         <DialogActions>
           <Button onClick={() => setopen(false)} autoFocus>
