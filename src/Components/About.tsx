@@ -29,6 +29,7 @@ const About = () => {
         }
         return (
             <div>
+                
                 {cardDetails.map((e) => {
                     return (
                         <div key={e.title} data-aos='flip-down'>

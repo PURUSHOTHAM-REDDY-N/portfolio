@@ -10,6 +10,7 @@
         "@mui/icons-material": "^5.15.1",
         "@mui/lab": "^5.0.0-alpha.157",
         "@mui/material": "^5.15.1",
+        "@tailwindcss/vite": "^4.2.4",
         "@testing-library/jest-dom": "^6.1.5",
         "@testing-library/react": "^14.1.2",
         "@testing-library/user-event": "^14.5.1",
@@ -18,6 +19,7 @@
         "framer-motion": "^10.16.16",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "tailwindcss": "^4.2.4",
         "vite": "^6.2.5",
         "vite-tsconfig-paths": "^5.1.4",
         "web-vitals": "^3.5.0"
