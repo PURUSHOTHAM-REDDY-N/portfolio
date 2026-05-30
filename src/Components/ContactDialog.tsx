@@ -51,7 +51,7 @@ export const ContactDialog: React.FC<ContactDialogProps> = ({
             below to contact me. Thank you!
           </Typography>
           <Typography gutterBottom>Email: purupowerman@gmail.com</Typography>
-          <Typography gutterBottom>Phone: +91 7780769440</Typography>
+          <Typography gutterBottom>Phone: +353 0892566822</Typography>
         </DialogContent>
         <DialogActions>
           <Button onClick={() => setopen(false)} autoFocus>
